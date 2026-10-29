@@ -35,8 +35,7 @@ Harshit-BrainyBeam-Internship/
 └── Matplotlib/
     ├── matplotlib_practical_task.ipynb
     ├── Matplotlib_practice.ipynb
-    ├── student_data.csv
-    └── Sunflower.jpeg
+    └── student_data.csv
 ```
 
 ## Tools and Libraries
