@@ -2,12 +2,12 @@
 # Student Performance Analysis
 
 students = [
-    {"name": "Anamika", "age": 20, "course": "Math", "marks": 85},
-    {"name": "Barbie", "age": 22, "course": "Science", "marks": 78},
-    {"name": "Charmi", "age": 21, "course": "History", "marks": 92},
-    {"name": "Diya", "age": 23, "course": "Math", "marks": 65},
-    {"name": "Eni", "age": 20, "course": "Science", "marks": 88},
-    {"name": "Franky", "age": 22, "course": "History", "marks": 71}
+    {"name": "Aarav", "age": 21, "course": "Python", "marks": 90},
+    {"name": "Priya", "age": 20, "course": "Data Science", "marks": 76},
+    {"name": "Rahul", "age": 22, "course": "Java", "marks": 95},
+    {"name": "Neha", "age": 19, "course": "Python", "marks": 60},
+    {"name": "Karan", "age": 23, "course": "Data Science", "marks": 82},
+    {"name": "Sneha", "age": 21, "course": "Java", "marks": 68}
 ]
 
 
