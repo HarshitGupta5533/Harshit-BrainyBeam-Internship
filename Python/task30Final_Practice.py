@@ -10,11 +10,8 @@ students = [
     {"name": "Sneha", "age": 21, "course": "Java", "marks": 68}
 ]
 
-
 def total_students():
     print("Total Students:", len(students))
-
-
 
 def average_marks():
     total = 0
